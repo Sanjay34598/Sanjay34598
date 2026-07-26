@@ -135,7 +135,7 @@ Git • GitHub • Docker • VS Code • Postman • Power BI • Linux
 
 📧 Email: **sanjaynalla23890@gmail.com**
 
-💼 LinkedIn: **linkedin.com/in/sanjay-nalla-74476132a**
+💼 LinkedIn: **linkedin.com/in/nallasanjay**
 
 🐙 GitHub: **github.com/Sanjay34598**
 

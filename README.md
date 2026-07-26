@@ -8,7 +8,7 @@ Building AI-powered products that solve real-world problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nallasanjay)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Sanjay34598)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sanjaynalla23890@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sanjaynalla97@gmail.com)
 
 </div>
 
@@ -133,7 +133,7 @@ Git • GitHub • Docker • VS Code • Postman • Power BI • Linux
 
 # 📫 Connect With Me
 
-📧 Email: **sanjaynalla23890@gmail.com**
+📧 Email: **sanjaynalla97@gmail.com**
 
 💼 LinkedIn: **linkedin.com/in/nallasanjay**
 

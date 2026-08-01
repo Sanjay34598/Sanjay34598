@@ -16,7 +16,7 @@ Building AI-powered products that solve real-world problems.
 
 # 💫 About Me
 
-🎓 3rd Year B.Tech CSE Student
+🎓 4th Year B.Tech CSE Student
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 
